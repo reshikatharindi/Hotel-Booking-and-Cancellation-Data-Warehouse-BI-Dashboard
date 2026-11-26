@@ -1,0 +1,35 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Temporary exports and logs
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Power BI temporary and recovery files
+*.pbix.autorecover
+*.pbix.lock
+*.pbit.autorecover
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Credentials and connection details
+.env.*
+secrets/
+credentials/
+*password*
+*credentials*
+
